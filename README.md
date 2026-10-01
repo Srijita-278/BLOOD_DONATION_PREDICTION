@@ -16,9 +16,10 @@ Random Forest
 XGBoost
 Hyperparameter Tuning using RandomizedSearchCV
 Model Comparison using ROC-AUC
-🛠️ Technologies
 
-Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost
+##### Technologies
+
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
 🎯 Objective
 
